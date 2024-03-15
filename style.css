@@ -1,0 +1,39 @@
+/* Custom styles */
+
+/* Add your custom CSS here */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #000;
+  }
+  
+  footer {
+    background-color: #000;
+  }
+  
+  .navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+  }
+  
+  .navbar-dark .navbar-nav .nav-link:hover {
+    color: #ccc;
+  }
+  
+  .bg-primary {
+    background-color: #000;
+  }
+  
+  .text-primary {
+    color: #fff !important;
+  }
+  
+  .bg-light {
+    background-color: #fff;
+  }
+  
+  .text-muted {
+    color: #777;
+  }
+  
